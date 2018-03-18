@@ -6,7 +6,7 @@ Script fetches [Tyme2](http://tyme-app.com/) work entries from previous workday 
 
 # How to use
 
-Set the `togglAPIToken` to your Toggl API token. Schedule the script so it runs once every workday (Mo-Fr). I use [Scheduler](http://www.macscheduler.net/) for this.
+Set the `togglAPIToken` property to your Toggl API token. Schedule the script so it runs once every workday (Mo-Fr). I use [Scheduler](http://www.macscheduler.net/) for this.
 
 ## Thanks to
 
